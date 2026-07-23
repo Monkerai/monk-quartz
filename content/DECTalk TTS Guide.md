@@ -1,5 +1,10 @@
+---
+publish: true
+created: 2026-07-22T15:15:23.264+10:00
+modified: 2026-07-23T16:55:33.469+10:00
+---
 
-As part of the [Monk_Mate Twitch stream](https://twitch.tv/monk_mate), viewers can redeem **DECTalk TTS** with Channel Points.
+As part of the [Monk\_Mate Twitch stream](https://twitch.tv/monk_mate), viewers can redeem **DECTalk TTS** with Channel Points.
 
 DECTalk is a classic 1980s text-to-speech voice system, best known online for its robotic voice effects and _Moonbase Alpha_-style singing. Normally, DECTalk uses confusing inline commands, so this stream has **Easy Mode tags** that make it much simpler to use.
 
@@ -159,7 +164,7 @@ Use `#sing`, then a syllable, followed by pitch numbers.
 
 This sings “dah dah dah” with the pitch going upward.
 
-Lower number = lower note.  
+Lower number = lower note.\
 Higher number = higher note.
 
 A good pitch range is:
